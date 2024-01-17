@@ -5,6 +5,8 @@
 
 This folder contains the work my team and I completed in fulfillment of our DS4A Fellowship. For our capstone project, we chose to investigate the interplay between racial disparities in pregnancy-related mortality and socioeconomic factors. Selected factors considered include: `race`, `income`, `marital status`, `education`, `employment`, `access to health care`, `fertility`, `poverty rates`, `citizenship`, and `location`.
 
+![datafolio](https://github.com/GabrielBrionesL/DS4A-Capstone/assets/49901765/e6d22009-3b66-40f7-94eb-395d955524fb)
+
 ### **Introduction:**
 The project addresses persistent racial disparities in maternal health in the U.S., particularly focusing on the impact of socio-economic factors. Despite advancements in medical care, maternal mortality rates, especially among Black women, remain high. The study aims to investigate the association between maternal mortality and factors such as race, income, education, and location, exploring trends over time and predicting pregnancy-related deaths.
 
@@ -25,8 +27,3 @@ The study concludes that Black women experience higher maternal mortality rates 
 
 ### **Future Work:**
 The analysis suggests that socio-economic factors play a greater role in maternal mortality rates for Black populations. However, additional factors contributing to observed variances need consideration. Policy recommendations include expanding health insurance access to address mortality disparities. Further research is recommended to enhance understanding and promote racial equity in maternal health outcomes.
-
-![datafolio](https://github.com/GabrielBrionesL/DS4A-Capstone/assets/49901765/e6d22009-3b66-40f7-94eb-395d955524fb)
-
-
-
