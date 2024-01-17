@@ -1,5 +1,6 @@
 # DS4A Capstone
 ## Data Science for All by Correlation One - Empowerment Cohort 4
+### February 2023
 
 **Team 26:** Cynthia Fonderson, Gabriel Briones, Solomon Berhe, Moradeke Adeniji-Somefun
 
