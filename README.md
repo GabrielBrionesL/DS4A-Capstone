@@ -9,7 +9,7 @@ This folder contains the work my team and I completed in fulfillment of our DS4A
 ![datafolio](https://github.com/GabrielBrionesL/DS4A-Capstone/assets/49901765/e6d22009-3b66-40f7-94eb-395d955524fb)
 
 ### **Introduction:**
-The project addresses persistent racial disparities in maternal health in the U.S., particularly focusing on the impact of socio-economic factors. Despite advancements in medical care, maternal mortality rates, especially among Black women, remain high. The study aims to investigate the association between maternal mortality and factors such as race, income, education, and location, exploring trends over time and predicting pregnancy-related deaths.
+The project addresses persistent racial disparities in maternal health in the U.S., particularly focusing on the impact of socio-economic factors. Despite advancements in medical care, maternal mortality rates, especially among Black women, remain high. The study aims to investigate the association between maternal mortality and factors such as `race`, `income`, `education`, and `location`, exploring trends over time and predicting pregnancy-related deaths.
 
 ### **Data Analysis:**
 Two datasets from the Centers for Disease Control and Prevention and the U.S. Census were used for analysis. The data underwent extensive wrangling and cleaning, merging mortality and socio-economic information by state and race. The project's goal is to expose systemic factors contributing to racial disparities in maternal health outcomes.
